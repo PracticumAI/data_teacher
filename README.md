@@ -16,8 +16,8 @@
 
 #### RAPIDS (Concepts)
 1. Data wrangling with Pandas & Rapids *Pandas for Everyone* by Daniel Chen
-    d. Visualization.
-    a. Impute missing values
-    b. Formatting 
-    c. Outliers
+    - Visualization.
+    - Impute missing values
+    - Formatting 
+    - Outliers
 
