@@ -48,6 +48,8 @@ By the end of this module, students will be able to:
 4. Evaluate how others use metadata to describe their datasets.
 5. Summarize the ethical issues of open science - data ownership, profit/data sharing, privacy, etc...
 
+Web scraping?
+
 #### To Do List
 
 ##### Read
