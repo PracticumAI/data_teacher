@@ -1,4 +1,5 @@
 ## Course Outline
+Test Update
 
 ### Module 1
 
@@ -85,6 +86,8 @@ By the end of this module, students will be able to:
 ##### Complete
 
 #### Optional Content / Additional Resources
+
+[Data Organization: Noble](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 ***
 ### Module 4
